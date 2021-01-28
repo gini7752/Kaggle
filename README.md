@@ -8,3 +8,4 @@
 |2021.01.14|Clothes_Classification|https://storage.googleapis.com/tensorflow/tf-keras-datasets/train-labels-idx1-ubyte.gz|
 |2021.01.20|Pneumonia_Prediction|https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia|
 |2021.01.25|Chess_Prediction|https://www.kaggle.com/datasnaek/chess|
+|2021.01.28|Malaria_Detective|https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria|
